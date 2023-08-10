@@ -39,3 +39,10 @@ apt install -y wget screen && wget -q https://raw.githubusercontent.com/firdaus-
 - Always Use HTTPS : OFF
 - UNDER ATTACK MODE : OFF
 ```
+
+### Kontak Admin
+- Telegram : https://t.me/firdaus_rx
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/firdaus-rx/AutoScriptXray.svg)](https://starchart.cc/firdaus-rx/autoscript)
