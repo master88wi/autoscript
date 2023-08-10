@@ -43,6 +43,13 @@ apt install -y wget screen && wget -q https://raw.githubusercontent.com/firdaus-
 ### Kontak Admin
 - Telegram : https://t.me/firdaus_rx
 
+
+# Donasi / Support
+- Qris
+![qris](https://github.com/firdaus-rx/autoscript/blob/main/img/qris.jpg?raw=true)
+- Dana/Gopay
+  - 081324336437
+
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/firdaus-rx/AutoScriptXray.svg)](https://starchart.cc/firdaus-rx/autoscript)
