@@ -4,6 +4,11 @@ DEBIAN 10 / Ubuntu 20
 CPU MIN 1 CORE
 RAM 1GB
 
+
+### Visitors
+<p align="center"><img src="https://profile-counter.glitch.me/firdaus-rx/count.svg" alt="neoxr :: Visitor's Count" /></p>
+
+
 ### INSTALL SCRIPT
 - Step 1
 ```
