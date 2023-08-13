@@ -21,6 +21,7 @@ apt install -y sabar dulu ya lagi proses !!!
 
 ### PORT INFO
 ```
+- UDP-CUSTOM 1-65350
 - SSH WS TLS 443
 - SSH WS 80
 - VMESS WS 443
