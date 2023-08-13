@@ -1,8 +1,9 @@
 # AUTOSCRIPT
-Installer Script SSH Xray Multi Port 44, 80
-DEBIAN 10 / Ubuntu 20
-CPU MIN 1 CORE
-RAM 1GB
+- Installer SSH, UDP, XRAY
+- MULTI PORT 443, 80
+- DEBIAN 10 / Ubuntu 20
+- CPU MIN 1 CORE
+- RAM 1GB
 
 
 ### Visitors
