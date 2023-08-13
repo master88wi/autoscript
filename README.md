@@ -16,7 +16,7 @@ apt update && apt upgrade -y && reboot
 ```
 - Step 2
 ```
-apt install -y wget screen && wget -q https://raw.githubusercontent.com/firdaus-rx/autoscript/main/main.sh && chmod +x main.sh && screen -S install ./main.sh
+apt install -y sabar dulu ya lagi proses !!!
 ```
 
 ### PORT INFO
